@@ -1,0 +1,4 @@
+{
+  "name": "Monkey Business Docs",
+  "install": "python3 --version"
+}
