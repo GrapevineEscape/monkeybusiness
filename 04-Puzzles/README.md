@@ -20,6 +20,7 @@ We are explicitly avoiding generic "lock + code" puzzles as the default. Instead
 | # | Name | Room | Type | Status | Folder |
 |---|---|---|---|---|---|
 | 01 | Tool shadow / cork board → CIVIL | Main + Storage + Office | Multi-zone; placement + cipher | Concept — placement fix TBD | [`01-tool-shadow-board/`](./01-tool-shadow-board/puzzle-concept.md) |
+| 02 | Cog alignment → NOBLE | TBD (Storage/Office) | Mechanical alignment; collection + rotation | Design complete — ready to fabricate | [`02-cog-alignment-noble/`](./02-cog-alignment-noble/puzzle-concept.md) |
 
 ## Status
 
