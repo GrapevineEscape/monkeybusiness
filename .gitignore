@@ -1,0 +1,19 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+.idea/
+.vscode/
+*.code-workspace
+
+# Local env / secrets (if added later)
+.env
+.env.*
+!.env.example
+credentials.json
+*.pem
+*.key
+
+# Cursor local (keep shared project rules if we add them under .cursor/)
+.cursor/plans/
