@@ -4,6 +4,7 @@ Record of settled decisions so we don't relitigate them. Newest at top.
 
 | Date | Decision | Rationale |
 |---|---|---|
+| 2026-08-10 | **"Dawn = Don" payoff** — concept draft foldered as puzzle **03 Partner Line** (Office card-swap lean: seat DAWN over "THE DON"). Not locked. Not the Storage→Office door gate. Payoff contents / card form still open. See `04-Puzzles/03-partner-line-dawn/puzzle-concept.md`. | Fills flagged in-game use of triangulation; editable whiteboard draft |
 | 2026-08-06 | Tool board puzzle: leaning **Option C** (placement pays off a *different* puzzle; CIVIL cipher separate) so the board can stay non-electronic/simple. Not locked — Russell still thinking. See `04-Puzzles/01-tool-shadow-board/puzzle-concept.md`. | Russell |
 | 2026-08-06 | Puzzle theme ratings: HOT = shadow board, lug torque, timing marks, firing order, parts bins, OBD codes, alignment, paint chips, H-shifter, brake bleed, wall meta. COLD = lift, oil/dipstick. MAYBE = fuse box. Air compressor = keep theme, rethink use (not just PSI→latch). Jumpers unrated. | Russell |
 | 2026-08-06 | Puzzle **theme brainstorm v1** started (auto-mechanical; Main→Storage→Office; optional half+half layering) — solutions not designed yet. See `04-Puzzles/theme-brainstorm-v1.md`. | Working session with Russell |

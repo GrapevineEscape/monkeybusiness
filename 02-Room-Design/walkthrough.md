@@ -113,6 +113,6 @@ Layered on top of the whole sequence above: if a group is visibly struggling, Fr
 
 1. Confirm Tools Closet as a **container** in Main (not a zone), and its sequencing relative to Storage/Office.
 2. **Exact evidence split** — which zone/container holds filing cabinet, dirty money, calendar, crossed-out photos, letters (beyond the two confirmed photos).
-3. **"Dawn = Don" payoff mechanic** — how players *use* that realization in-game.
+3. **"Dawn = Don" payoff mechanic** — concept drafted as Partner Line card-swap in [`../04-Puzzles/03-partner-line-dawn/puzzle-concept.md`](../04-Puzzles/03-partner-line-dawn/puzzle-concept.md); still need to lock payoff contents (ledger vs audio vs trunk part).
 4. Main Mechanic Station puzzle design.
 5. Tools Closet power-source: what it powers, how the connection works.
