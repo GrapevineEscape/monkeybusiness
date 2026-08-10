@@ -20,7 +20,8 @@ We are explicitly avoiding generic "lock + code" puzzles as the default. Instead
 | # | Name | Room | Type | Status | Folder |
 |---|---|---|---|---|---|
 | 01 | Tool shadow / cork board → CIVIL | Main + Storage + Office | Multi-zone; placement + cipher | Concept — placement fix TBD | [`01-tool-shadow-board/`](./01-tool-shadow-board/puzzle-concept.md) |
+| 02 | Path-tracing cogs | Pegboard + 3 find spots | Multi-zone; rotate overlays + path-trace | Concept — word/payoff TBD | [`02-path-tracing-cogs/`](./02-path-tracing-cogs/puzzle-concept.md) |
 
 ## Status
 
-Theme brainstorm started: [`theme-brainstorm-v1.md`](./theme-brainstorm-v1.md) (15+ concepts, no solutions locked). Whittle next, then formal puzzle folders.
+Theme brainstorm started: [`theme-brainstorm-v1.md`](./theme-brainstorm-v1.md) (15+ concepts + path-tracing cogs, no solutions locked). Whittle next, then formal puzzle folders.
