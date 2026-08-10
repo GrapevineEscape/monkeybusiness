@@ -34,15 +34,23 @@ Get **part** of a solution in one place, **another part** later, then bring piec
 |---|---|---|
 | Engine / lift-knobs / pulleys | Main — Mechanic Station | Physical puzzle → something usable elsewhere |
 | Power source routed elsewhere | Tools Closet **container** | Cable / trigger / etc. |
-| "Dawn = Don" payoff | Cross-zone (Main + Storage + Office) | Must be *used* in-game, not only mental |
+| "Dawn = Don" payoff | Cross-zone (Main + Storage + Office) | **Concept foldered** — [`../04-Puzzles/03-partner-line-dawn/puzzle-concept.md`](../04-Puzzles/03-partner-line-dawn/puzzle-concept.md). Lean: seat DAWN card on Office Partner Line (not Storage→Office gate). Payoff contents TBD (ledger / reframe audio / trunk part). |
 | Several small gates vs one big puzzle | Storage; Tools Closet container | Decide per location |
 | Frank intercom beats (ongoing) | Main (heard room-wide) | Not a gate by itself — flavor, pressure, assists, optional story beats |
-| Shop phone ring / dial / 2nd message | Main — phone container | Optional mid-game; leave build headroom — see answering-machine-phone prop |
+| Shop phone ring / dial / 2nd message | Main — phone container | Optional mid-game; leave build headroom — see answering-machine-phone prop. Partner Line puzzle prefers a *separate* Office handset so the start-game phone stays clean. |
 
 ## Design Philosophy Reminder
 
 Main access sequence for **zones** is gated/linear (Storage → Office). Branching still applies among containers within/around that backbone, and at the finale (YES/NO).
 
+## Early Formal Puzzle Wiring (draft)
+
+| Puzzle | Gate role | Requires | Produces |
+|---|---|---|---|
+| 01 Tool shadow / CIVIL | Multi-zone; Office drawer cipher (+ placement feeds something else — Option C lean) | Tools Main+Storage; Roman legend; Office strip | CIVIL drawer; placement payoff TBD |
+| 02 Path-tracing cogs | Cross-zone layer; payoff TBD | Cogs at 3 find spots | Path-word → TBD |
+| 03 Partner Line (Dawn = Don) | **Office container** beat (not the Office door gate) | Triangulation clues Main+Storage+Office | Reframe unlock — ledger / Dawn audio / trunk part TBD |
+
 ## Status
 
-Backbone confirmed. No individual puzzles designed yet.
+Backbone confirmed. Puzzles 01–03 in concept folders; zone gates and trunk 3-part sources still unassigned.

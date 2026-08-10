@@ -18,7 +18,12 @@ Status legend: `Needed` → `To Buy` (decided on a source/link) → `Ordered` �
 | Audio playback prop (recordings — answering machine/cassette/dictaphone style) | Evidence — "the Don" recordings | 1+ | — | Needed | — | Needs two-part/reveal audio content |
 | Framed photos (crossed-out figures, handshake photo, etc.) | Evidence | Several | — | Needed | — | Also need "lights up" versions for finale YES branch |
 | Prop cash ("dirty money") | Evidence | — | — | Needed | — | |
-| Donor ledger / paperwork props | Evidence — office/storage room | Several | — | Needed | — | |
+| Donor ledger / paperwork props | Evidence — office/storage room; candidate Partner Line payoff | Several | — | Needed | — | |
+| Partner Line desk card cradle / latch | Puzzle 03 — Dawn = Don payoff | 1 | — | Needed | — | Mechanical lean; see `04-Puzzles/03-partner-line-dawn/` |
+| "THE DON" dummy partner card | Puzzle 03 — seated at reset | 1 | — | Needed | — | Misdirect texture |
+| "DAWN" / Dawn Adams keyed card | Puzzle 03 — correct key | 1 | — | Needed | — | Magnet/shape key TBD |
+| Sticky note ("use the name, not the nickname") | Puzzle 03 — instruction | 1 | — | Needed | — | |
+| Optional Office desk handset / speaker for Dawn thank-you clip | Puzzle 03 — audio payoff | 1 | — | Needed | — | Optional upgrade; keep separate from start-game shop phone |
 | Room lighting control (dimmable/addressable) | Finale ambiance shift | — | — | Needed | — | See `05-Software-Electronics/` |
 | Speaker/audio system for finale music | Finale | — | — | Needed | — | |
 | Desk (Office) | Set dressing — Office | 1 | — | Needed | — | |
