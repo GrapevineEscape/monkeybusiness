@@ -47,7 +47,7 @@
 14. **H-pattern shifter maze** — gear path unlocks cubby
 15. **Brake bleeding order** — corner sequence + pedal
 16. **Wall meta** — Storage wall half + Office wall half
-17. **Path-tracing cogs** — four transparent colored cogs; rotate pathways; trace continuous line through letters; unsolvable until all four
+17. **Path-tracing cogs** — four transparent cogs; symbol-align to peg; trace continuous line through letters; unsolvable until all four
 
 ### Still in play
 
@@ -121,7 +121,7 @@ Storage wall + Office wall must be combined (digits, shapes, sightline). Pure ba
 ### 17. Path-Tracing Cogs — HOT → concept in progress
 See [`02-path-tracing-cogs/puzzle-concept.md`](./02-path-tracing-cogs/puzzle-concept.md).
 
-Four colored pegs (red / black / yellow / green) on a pegboard. Four transparent colored **cogs**, each with a pathway segment. Stack on matching pegs (order irrelevant); rotate so paths meet. **Trace one continuous line** through letters — path only completes with all four cogs (e.g. get STA early; RR/Y need the later pieces).
+Pegboard with four pegs (**color irrelevant**). Four transparent **cogs**, each with a registration **symbol** (funky angled line) plus a pathway segment. Board has multiple candidate marks per peg; line the cog’s symbol up with the **one matching** mark → correct peg + correct rotation. Then **trace one continuous line** through letters — path only completes with all four cogs (e.g. get STA early; RR/Y need the later pieces).
 
 **Distribution (Russell):** three find spots — cog 1, then cog 2, then **cogs 3+4 together**. Two cogs alone are not guessable.
 
@@ -145,7 +145,7 @@ Four colored pegs (red / black / yellow / green) on a pegboard. Four transparent
 1. Rate **#13 Jumpers** (HOT / MAYBE / COLD).
 2. Pick 1–2 **air compressor** alt uses to keep exploring.
 3. Call **#3 Fuse** HOT or COLD.
-4. For **#17 Path-tracing cogs**: lock solution word/payoff, map three find locations, pick in-world theme.
+4. For **#17 Path-tracing cogs**: lock solution word/payoff, map three find locations, design symbol set / distractors, pick in-world theme.
 5. Whittle HOT list to ~8–10 that fit time budget, then assign to gates (Main→Storage, Storage→Office, trunk parts).
 
 ## Status
