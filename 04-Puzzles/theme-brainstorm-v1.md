@@ -99,7 +99,7 @@ Plug wires to cylinders. Layer: incomplete sticker + Office invoice digit.
 ### 8. Parts Catalog / Bin Wall — HOT → concept in progress
 See [`04-parts-book-corolla/puzzle-concept.md`](./04-parts-book-corolla/puzzle-concept.md).
 
-Help letter + tech polaroid (no number) + parts book → ID model → match diagram (near-misses) → part number → drawer dials and/or bin pull → bagged part + clues. Base lookup alone is a bit easy; concept adds split car ID + physical part payoff. May thread the canon Corolla / Friday / no-invoice job.
+Letter + polaroid packet; **paper book = make/model**; **Shop PC Parts lookup** = part # (diagram match, no AI) → drawer/bin with bagged part. PC is a multi-use Main hub (customers, air/compressor, …) — [`../03-Flow/shop-pc-hub.md`](../03-Flow/shop-pc-hub.md).
 
 ### 10. Fake OBD / Blink Codes — HOT
 Blink pattern or printout → Office legend → code entry or "replace this part."
@@ -152,7 +152,7 @@ Uses the existing Main/Storage/Office triangulation. Office desk **Partner Line*
 ## Next Steps
 
 1. Rate **#13 Jumpers** (HOT / MAYBE / COLD).
-2. Pick 1–2 **air compressor** alt uses to keep exploring.
+2. Pick 1–2 **air compressor** alt uses to keep exploring — candidate: **Shop PC “air/compressor” menu** software-locks release until another solve (see [`../03-Flow/shop-pc-hub.md`](../03-Flow/shop-pc-hub.md)).
 3. Call **#3 Fuse** HOT or COLD.
 4. For **#17 Path-tracing cogs**: lock solution word/payoff, map three find locations, design symbol set / distractors, pick in-world theme.
 5. For **#18 Partner Line**: lock payoff contents (ledger / Dawn audio / trunk token) and card form (DAWN vs full business card).
