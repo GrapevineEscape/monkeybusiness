@@ -26,6 +26,7 @@
 | 14 | H-pattern shifter maze | **HOT** | |
 | 15 | Brake bleeding order | **HOT** | |
 | 16 | Wall meta (Storage ↔ Office) | **HOT** | |
+| 17 | Path-tracing cogs (transparent overlays) | **HOT** | Russell concept 2026-08-09/10 — see folder |
 
 **Dropped (cold):** #7 Lift, #9 Oil/dipstick.
 
@@ -33,7 +34,7 @@
 
 ## HOT Shortlist (working set)
 
-### Core HOT (12)
+### Core HOT (13)
 
 1. **Tool shadow board** — hang correct tool on silhouette (Main gimme)
 2. **Lug nut / torque sequence** — star/order twists on a wheel
@@ -46,6 +47,7 @@
 14. **H-pattern shifter maze** — gear path unlocks cubby
 15. **Brake bleeding order** — corner sequence + pedal
 16. **Wall meta** — Storage wall half + Office wall half
+17. **Path-tracing cogs** — four transparent cogs; symbol-align to peg; trace continuous line through letters; unsolvable until all four
 
 ### Still in play
 
@@ -116,6 +118,13 @@ Open bleeders in order + pump pedal. Layer: manual in Office + problem corner in
 ### 16. Wall Meta — HOT
 Storage wall + Office wall must be combined (digits, shapes, sightline). Pure back-and-forth layer pattern.
 
+### 17. Path-Tracing Cogs — HOT → concept in progress
+See [`02-path-tracing-cogs/puzzle-concept.md`](./02-path-tracing-cogs/puzzle-concept.md).
+
+Pegboard with four pegs (**color irrelevant**). Four transparent **cogs**, each with a registration **symbol** (funky angled line) plus a pathway segment. Board has multiple candidate marks per peg; line the cog’s symbol up with the **one matching** mark → correct peg + correct rotation. Then **trace one continuous line** through letters — path only completes with all four cogs (e.g. get STA early; RR/Y need the later pieces).
+
+**Distribution (Russell):** three find spots — cog 1, then cog 2, then **cogs 3+4 together**. Two cogs alone are not guessable.
+
 ---
 
 ## Rough Flow Roles (updated for HOT set)
@@ -126,7 +135,7 @@ Storage wall + Office wall must be combined (digits, shapes, sightline). Pure ba
 | Main depth / Storage gate | #2 Lug, #5 Timing, #14 Shifter; compressor as support (A/B/F) |
 | Storage | #8 Parts bins; #12 Paint (start); #16 half |
 | Office gate / Office | #10 Codes, #6 Firing order, #11 Alignment, #15 Bleed |
-| Cross-zone layer kings | #16 Wall meta, #5 Timing, #6 Firing, #12 Paint, #15 Bleed |
+| Cross-zone layer kings | #16 Wall meta, #5 Timing, #6 Firing, #12 Paint, #15 Bleed, **#17 Path-tracing cogs** |
 | Trunk 3-part feed | Pick 3 layered outputs from above |
 
 ---
@@ -136,8 +145,9 @@ Storage wall + Office wall must be combined (digits, shapes, sightline). Pure ba
 1. Rate **#13 Jumpers** (HOT / MAYBE / COLD).
 2. Pick 1–2 **air compressor** alt uses to keep exploring.
 3. Call **#3 Fuse** HOT or COLD.
-4. Whittle HOT list to ~8–10 that fit time budget, then assign to gates (Main→Storage, Storage→Office, trunk parts).
+4. For **#17 Path-tracing cogs**: lock solution word/payoff, map three find locations, design symbol set / distractors, pick in-world theme.
+5. Whittle HOT list to ~8–10 that fit time budget, then assign to gates (Main→Storage, Storage→Office, trunk parts).
 
 ## Status
 
-Ratings captured. Solutions still not designed.
+Ratings captured (incl. #17 HOT). Solutions still not designed.
