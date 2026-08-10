@@ -9,7 +9,7 @@ This is the "HOW do players get from start to goal" layer — the map of puzzle 
 
 ## Design Philosophy
 
-- Prefer **branching** among containers; zone access stays Main → Storage → Office.
+- Prefer **branching** among containers; room access stays Main → Storage → Office (three-room escape).
 - Every gate should serve a story beat.
 - **Suspicion curve:** early work pushes *into* the dark assumption; **Office** is first reframe; nothing ever *states* mob — see [`suspicion-curve.md`](./suspicion-curve.md).
 - **Multi-layered/distributed puzzles** preferred — see Trunk proposal in `puzzle-dependency-map.md`.

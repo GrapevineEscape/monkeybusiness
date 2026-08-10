@@ -1,6 +1,6 @@
 # Suspicion Curve & Assumption Design
 
-How the story *feels* across zone access — and the hard rule that makes the a-ha land.
+How the story *feels* across room access — and the hard rule that makes the a-ha land.
 
 ## Hard Rule: The Room Never Says "Mob"
 
@@ -18,21 +18,21 @@ Players should **incorrectly assume** that themselves — from tone, Frank, slan
 
 Prop copy, recordings, and Frank's lines must obey this. Frank can be gruff and ominous; he should not say "your uncle was connected."
 
-## Emotional / Assumption Arc by Zone
+## Emotional / Assumption Arc by Room
 
 ```
-Main (start)
+Main (start — largest room, garage bay)
   You: new to the trade, inherited a shop, Frank seems to dislike you,
        "dead thing in the trunk," odd slang — unease grows.
   Job of early puzzles: PUSH DEEPER into the dark assumption.
        More ambiguous "bad" texture. Never confirm mob in writing.
 
-Storage (first gated zone)
+Storage (first gated room — small)
   Peak wrong assumption. Handshake photo, letters, crossed-out faces,
   cash — still never says "mob," but the player's theory feels airtight.
   Exit Storage believing: "I inherited something shady."
 
-Office (second gated zone)  ← TURN STARTS HERE
+Office (second gated room — mid-size)  ← TURN STARTS HERE
   First cracks. Dawn Adams nameplate, ledger language, calendar context,
   second half of a recording — players begin to realize THEY assumed wrong.
   Not one dump of "here's the truth" — a cascade of a-has as each old clue
@@ -52,7 +52,7 @@ Trunk container → Finale
 
 ## Flow Backbone (reminder)
 
-Zones: Main → Storage → Office. Last major container: car trunk.  
+Rooms: Main (largest) → Storage (small) → Office (mid-size). Last major container: car trunk.  
 See [`puzzle-dependency-map.md`](./puzzle-dependency-map.md).
 
 ## Status

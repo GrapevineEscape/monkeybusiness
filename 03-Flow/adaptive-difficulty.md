@@ -8,7 +8,7 @@ This is distinct from (and complements) the per-puzzle hint escalation already t
 
 ## Core Mechanism: "Tony's Locker" (proposed name)
 
-A **container** (cabinet/locker) that's **physically present and visible from early in the game**, but locked from the start and easy to dismiss as ordinary scenery (it shouldn't look like "the hint box"). It holds **sealed envelopes or clearly-labeled compartments**, one per major bottleneck (e.g. zone gates "Storage" / "Office", or container gates "Tools Closet" / "Car trunk"). It cannot be opened by solving a puzzle — only via a **remote-triggered electronic lock** (maglock/solenoid), fired by the GM or an automatic time-based fallback.
+A **container** (cabinet/locker) that's **physically present and visible from early in the game**, but locked from the start and easy to dismiss as ordinary scenery (it shouldn't look like "the hint box"). It holds **sealed envelopes or clearly-labeled compartments**, one per major bottleneck (e.g. room gates "Storage" / "Office", or container gates "Tools Closet" / "Car trunk"). It cannot be opened by solving a puzzle — only via a **remote-triggered electronic lock** (maglock/solenoid), fired by the GM or an automatic time-based fallback.
 
 Contents per compartment (concept, not finalized) — should make the *current* bottleneck meaningfully easier without just handing over the answer outright:
 - A more direct/explicit rephrasing of an existing clue (e.g., spelling out the "Dawn/Don" phonetic connection more plainly instead of requiring inference)

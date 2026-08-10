@@ -1,12 +1,12 @@
 # Walkthrough — The Player Experience
 
-This traces what the player actually sees, does, and feels across the **three zones** (Main → Storage → Office) and the **containers** inside them. Vocabulary: [`zones-and-containers.md`](./zones-and-containers.md). It does **not** define puzzle mechanics — those come later in [`../04-Puzzles/`](../04-Puzzles/). Where a "how do they get access" moment happens, it's marked as `[ACCESS TBD]`.
+This traces what the player actually sees, does, and feels across the **three rooms** — **Main** (largest garage) → **Storage** (small) → **Office** (mid-size) — and the **containers** inside them. Vocabulary: [`zones-and-containers.md`](./zones-and-containers.md). It does **not** define puzzle mechanics — those come later in [`../04-Puzzles/`](../04-Puzzles/). Where a "how do they get access" moment happens, it's marked as `[ACCESS TBD]`.
 
 **Confirmed access order:**
-- **Zones:** Main (start) → **Storage** → **Office**
+- **Rooms:** Main (start) → **Storage** → **Office**
 - **Major container (last):** Car trunk → Sparky → Mascot Mount → Finale
 
-Access is gated, not branching. Tools Closet is treated as a **container** (not a 4th zone); sequencing still open. Other containers (lockers, cabinets, drawers, filing cabinet, Tony's Locker, etc.) are additional gates/clue holders — see the living list in [`zones-and-containers.md`](./zones-and-containers.md).
+Access is gated, not branching. Tools Closet is treated as a **container** (not a 4th room); sequencing still open. Other containers (lockers, cabinets, drawers, filing cabinet, Tony's Locker, etc.) are additional gates/clue holders — see the living list in [`zones-and-containers.md`](./zones-and-containers.md).
 
 ---
 
@@ -75,7 +75,7 @@ Exit Storage believing you inherited something shady. Truth not yet available.
 
 ## Phase 5 — Tools Closet container (sequencing + role still open)
 
-**Not a zone** — a container (or sub-area of Main). Leading concept: a **power source** here needs to be connected/routed to power something elsewhere. Alternatives: several small nested containers, or one bigger puzzle. Sequencing relative to Storage/Office still open.
+**Not a 4th room** — a container (or sub-area of Main). Leading concept: a **power source** here needs to be connected/routed to power something elsewhere. Alternatives: several small nested containers, or one bigger puzzle. Sequencing relative to Storage/Office still open.
 
 ## Phase 6 — The Cascade (Office onward)
 
@@ -91,7 +91,7 @@ Emotional core of the room: *"I assumed wrong — and every clue told a differen
 
 ## Phase 7 — Opening the Car Trunk container `[ACCESS TBD]` (last major gate)
 
-Having pieced together the truth, the player opens the **car trunk** (a container in Main — not a zone). Inside: **Sparky**, lifeless, missing his battery.
+Having pieced together the truth, the player opens the **car trunk** (a container in Main — not a room). Inside: **Sparky**, lifeless, missing his battery.
 
 **Proposed mechanism (multi-layered puzzle pattern):** the trunk lock requires 3 parts sourced from Storage, Office, and the Tools Closet container — only combining when brought back to the trunk. See [`../03-Flow/puzzle-dependency-map.md`](../03-Flow/puzzle-dependency-map.md) (not finalized).
 
@@ -111,8 +111,8 @@ Layered on top of the whole sequence above: if a group is visibly struggling, Fr
 
 ## Open Questions From This Pass
 
-1. Confirm Tools Closet as a **container** in Main (not a zone), and its sequencing relative to Storage/Office.
-2. **Exact evidence split** — which zone/container holds filing cabinet, dirty money, calendar, crossed-out photos, letters (beyond the two confirmed photos).
+1. Confirm Tools Closet as a **container** in Main (not a 4th room), and its sequencing relative to Storage/Office.
+2. **Exact evidence split** — which room/container holds filing cabinet, dirty money, calendar, crossed-out photos, letters (beyond the two confirmed photos).
 3. **"Dawn = Don" payoff mechanic** — how players *use* that realization in-game.
 4. Main Mechanic Station puzzle design.
 5. Tools Closet power-source: what it powers, how the connection works.

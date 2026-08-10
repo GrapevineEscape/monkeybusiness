@@ -32,7 +32,7 @@ Early tasks and finds should **push deeper into the dark assumption**, not towar
 
 ## Access Order (confirmed)
 
-**Zones** gated: **Storage first → Office second.** Last major **container**: **car trunk**. (Trunk is not a zone — see [`../02-Room-Design/zones-and-containers.md`](../02-Room-Design/zones-and-containers.md).) Each gate plus smaller containers (lockers, cabinets, drawers) involves real puzzles, not freely-readable evidence alone.
+**Rooms** gated: **Storage first → Office second** (Main is the large garage; Storage is small; Office is mid-size). Last major **container**: **car trunk**. (Trunk is not a room — see [`../02-Room-Design/zones-and-containers.md`](../02-Room-Design/zones-and-containers.md).) Each gate plus smaller containers (lockers, cabinets, drawers) involves real puzzles, not freely-readable evidence alone.
 
 ## Clue Triangulation Mechanic
 

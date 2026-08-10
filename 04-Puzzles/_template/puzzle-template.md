@@ -21,7 +21,7 @@ How it actually works, mechanically/electronically. Be explicit enough that some
 
 ## Location
 
-- **Zone:** Main | Storage | Office
+- **Room:** Main (largest) | Storage (small) | Office (mid-size)
 - **Container(s):** (if any — trunk, locker, drawer, etc.; see [`../../02-Room-Design/zones-and-containers.md`](../../02-Room-Design/zones-and-containers.md))
 
 ## Inputs / Outputs (for Flow map)

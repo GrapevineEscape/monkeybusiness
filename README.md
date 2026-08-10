@@ -18,7 +18,7 @@ This is the hub for the *Monkey Business* escape room: story, room design, puzzl
 
 **Story locked**: *Tony's Garage* — you inherit your late Uncle Tony's auto shop; evidence suggests he was mob-connected, but it's revealed he was secretly funding anonymous car repairs for people in crisis, partnered with the Chief of Police. Ends on a values-based branching choice. Full details in [`01-Story/`](./01-Story/README.md).
 
-**Room concept captured**: one room, one group; **3 zones** (Main, Storage, Office) plus **containers** (trunk, lockers, drawers, etc.) — see [`02-Room-Design/zones-and-containers.md`](./02-Room-Design/zones-and-containers.md) and the player [`walkthrough`](./02-Room-Design/walkthrough.md).
+**Room concept captured**: **three-room escape**, one group; **Main** garage (largest), **Storage** (small), **Office** (mid-size), plus **containers** (trunk, lockers, drawers, etc.) — see [`02-Room-Design/zones-and-containers.md`](./02-Room-Design/zones-and-containers.md) and the player [`walkthrough`](./02-Room-Design/walkthrough.md).
 
 Next up: finish open sequencing/evidence questions, then puzzle flow and design.
 
