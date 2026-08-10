@@ -35,6 +35,7 @@ Get **part** of a solution in one place, **another part** later, then bring piec
 | Engine / lift-knobs / pulleys | Main — Mechanic Station | Physical puzzle → something usable elsewhere |
 | Power source routed elsewhere | Tools Closet **container** | Cable / trigger / etc. |
 | "Dawn = Don" payoff | Cross-zone (Main + Storage + Office) | **Concept foldered** — [`../04-Puzzles/03-partner-line-dawn/puzzle-concept.md`](../04-Puzzles/03-partner-line-dawn/puzzle-concept.md). Lean: seat DAWN card on Office Partner Line (not Storage→Office gate). Payoff contents TBD (ledger / reframe audio / trunk part). |
+| Parts book / tech photo → part # | Main + Storage (+ Office scrap?) | **Concept foldered** — [`../04-Puzzles/04-parts-book-corolla/puzzle-concept.md`](../04-Puzzles/04-parts-book-corolla/puzzle-concept.md). Letter + polaroid + catalog → part number → drawer/bin with real part. Candidate Storage exploration / Main drawer beat; may thread Corolla Friday job. |
 | Several small gates vs one big puzzle | Storage; Tools Closet container | Decide per location |
 | Frank intercom beats (ongoing) | Main (heard room-wide) | Not a gate by itself — flavor, pressure, assists, optional story beats |
 | Shop phone ring / dial / 2nd message | Main — phone container | Optional mid-game; leave build headroom — see answering-machine-phone prop. Partner Line puzzle prefers a *separate* Office handset so the start-game phone stays clean. |

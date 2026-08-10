@@ -24,6 +24,12 @@ Status legend: `Needed` → `To Buy` (decided on a source/link) → `Ordered` �
 | "DAWN" / Dawn Adams keyed card | Puzzle 03 — correct key | 1 | — | Needed | — | Magnet/shape key TBD |
 | Sticky note ("use the name, not the nickname") | Puzzle 03 — instruction | 1 | — | Needed | — | |
 | Optional Office desk handset / speaker for Dawn thank-you clip | Puzzle 03 — audio payoff | 1 | — | Needed | — | Optional upgrade; keep separate from start-game shop phone |
+| Custom parts catalog book (exploded diagrams + near-misses) | Puzzle 04 — parts book lookup | 1 | — | Needed | — | Hero prop; see `04-Puzzles/04-parts-book-corolla/` |
+| Tech polaroid of failed part (no part number) | Puzzle 04 | 1 | — | Needed | — | |
+| Help letter (down-and-out / car repair ask) | Puzzle 04 — may share filing cabinet | 1 | — | Needed | — | Cousin to M. Ruiz draft letter |
+| Year/model third fragment (ticket, sticker, or calendar tie) | Puzzle 04 | 1 | — | Needed | — | Splits car ID so letter alone isn't enough |
+| Parts drawer dials / lock or labeled bin wall | Puzzle 04 — payoff | 1 | — | Needed | — | Prefer dials or bin pull over bare keypad |
+| Bagged dummy replacement part + no-invoice note | Puzzle 04 — drawer/bin contents | 1 | — | Needed | — | Physical a-ha + dual-read sticky |
 | Room lighting control (dimmable/addressable) | Finale ambiance shift | — | — | Needed | — | See `05-Software-Electronics/` |
 | Speaker/audio system for finale music | Finale | — | — | Needed | — | |
 | Desk (Office) | Set dressing — Office | 1 | — | Needed | — | |

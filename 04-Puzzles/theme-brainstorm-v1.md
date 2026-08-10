@@ -96,8 +96,10 @@ Rotate crank/cam until marks align. Layer: Storage diagram + Office TDC ref.
 ### 6. Spark Plug Firing Order — HOT
 Plug wires to cylinders. Layer: incomplete sticker + Office invoice digit.
 
-### 8. Parts Catalog / Bin Wall — HOT
-Look up part number; pull correct Storage bin. Strong Storage exploration beat.
+### 8. Parts Catalog / Bin Wall — HOT → concept in progress
+See [`04-parts-book-corolla/puzzle-concept.md`](./04-parts-book-corolla/puzzle-concept.md).
+
+Help letter + tech polaroid (no number) + parts book → ID model → match diagram (near-misses) → part number → drawer dials and/or bin pull → bagged part + clues. Base lookup alone is a bit easy; concept adds split car ID + physical part payoff. May thread the canon Corolla / Friday / no-invoice job.
 
 ### 10. Fake OBD / Blink Codes — HOT
 Blink pattern or printout → Office legend → code entry or "replace this part."
