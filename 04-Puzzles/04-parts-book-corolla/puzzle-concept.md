@@ -1,18 +1,21 @@
 # Puzzle: Parts Book / Tech Photo → Part Number (working title)
 
 **Status:** Concept draft from Russell prompt (2026-08-10) — editable whiteboard. Ties to HOT theme **#8 Parts catalog / bin wall**. Exact year/model/part/code not locked.  
-**Zones:** Main (tech photo + locked parts drawer or counter) · Storage (help letter + parts catalog book; optional bins) · Office optional (year/engine fragment or calendar cross-check)  
-**Type:** Multi-zone research / visual ID → part number → container.  
+**Zones:** Main (**Shop PC** parts lookup + locked parts drawer) · Storage/elsewhere (handwritten letter **with polaroid included** + **book for make/model**) · Office optional scrap  
+**Type:** Multi-zone research → **Shop PC hub** tool → part number → container.  
+**Hub:** [`../../03-Flow/shop-pc-hub.md`](../../03-Flow/shop-pc-hub.md) — Parts lookup is one menu item on the Main PC.  
 **Related story threads:** “down and out” letters; Corolla / “DO NOT invoice” / “parts came in for the Corolla… Friday” in [`../../01-Story/in-room-text.md`](../../01-Story/in-room-text.md).
 
 ---
 
 ## Summary
 
-Players find a **plea for help** about a dead car, a **technician polaroid of a failed part** (no part number visible), and a thick **parts / repair catalog**. They must identify the **car model** (and enough trim/year detail to pick the right page), match the photo to the **correct exploded-diagram callout**, read the **part number**, and use that number to open a **parts drawer** (or pull the matching Storage bin). Inside: the staged replacement part — and more clues.
+Players find a **handwritten help letter with a technician polaroid** of the failed part (no part number). A **paper book / manual** is used to pin down **make and model** (and year if needed). On the **Main Shop PC** (already logged in via sticky note — see hub doc), they open **Parts lookup**, enter/select that vehicle, visually match the polaroid to the on-screen diagram options, and get the **part number** (or a dispense/unlock signal). That opens a **parts drawer / bin** holding the staged replacement — and more clues.
 
 **Looks like:** pulling a part for an off-books “job.”  
 **Actually is:** Tony already staged the charity repair for someone who couldn’t pay.
+
+**Split of labor (pinned lean):** **Book → car. PC → part.** Avoids overbuilt “computer does everything” and avoids pure paper homework.
 
 ---
 
@@ -31,9 +34,10 @@ If one note says *“1998 Corolla, need water pump”*, the photo is obvious, an
 | **Visual match, not keyword search** | Catalog index is messy / incomplete; the real path is **match the polaroid shape to an exploded diagram**, then read the balloon number. Feels like a tech, not a librarian. |
 | **Physical payoff, not only a keypad** | Prefer: number labels the **correct parts bin** to pull, **or** dials on a shop “parts counter” display, **or** a drawer whose combination *is* the part number — and the drawer contains the **actual part in a bag**. Holding the part is the a-ha. |
 | **Suspicion-curve dual read** | Early: “off books,” cash side-note, urgent Friday — players invent shady. Later / inside drawer: “no invoice — M.” / hospital night-shift detail / ties to Dawn’s Corolla line. Same props, new reading. |
-| **Optional layer: bin wall + book** | Book gives the number; **wall of bins** makes you hunt the physical address (aisle/bin printed under the part # in the catalog). Combines research with a Storage exploration beat (HOT #8 as rated). |
+| **Book + Shop PC split** | Book answers make/model; **Parts lookup** on the Main PC answers part # from polaroid match. Each tool one job — see hub menu for other PC uses (customers, air, …). |
+| **Optional bin wall** | PC gives the number; **wall of bins** makes you hunt the physical address. Storage exploration beat (HOT #8). |
 
-**Lean:** Split ID + near-misses + **drawer/bin that yields the real part**. Keep a numeric lock only if the number *is* the part number (diegetic), not an arbitrary code.
+**Lean:** Letter+polaroid packet · book for vehicle · **Shop PC Parts lookup** for part · drawer/bin yields the **real part**. No camera/AI photo matching — player picks the matching diagram on screen.
 
 ---
 
@@ -47,13 +51,13 @@ Copy law: letter asks for help; never says extortion. “Off books” / “Frida
 
 ## Player Experience (Step by Step)
 
-1. **Find the letter** (likely Storage filing cabinet — “down and out” folder). Someone can’t pay; car is dead; urgency. Maybe mentions “Corolla” *or* only “my car” / a nickname for the vehicle.
-2. **Find the tech polaroid** (Main bench, clipboard, or stuck to the car). Greasy photo of the failed part; **no part number** in frame. Maybe a thumb over a sticker. Back might say only “bay 1 — needs ordered” or “for Friday.”
-3. **Find the parts book** (Storage shelf or Office reference stack). Fat catalog with exploded diagrams; index imperfect on purpose.
-4. **Assemble the model.** Cross-check letter + photo context + a third fragment (year sticker, engine code, calendar “Corolla”) until only one catalog chapter fits.
-5. **Match photo → diagram callout** among near-misses → read **part number**.
-6. **Open the parts drawer / pull the bin** with that number.
-7. **Payoff:** bagged replacement part + next clue(s) (e.g. “DO NOT invoice,” a token toward trunk, a note that re-reads the letter as charity once Office hits).
+1. **Log into the Shop PC** in Main (sticky note — gimme; may happen before this puzzle matters).
+2. **Find the letter + polaroid packet** (often together). Someone can’t pay; car is dead; photo shows the failed part with **no part number**.
+3. **Find the book** that can confirm **make/model** (and year if needed). Letter alone should not hand the full vehicle ID.
+4. On the PC menu → **Parts lookup**. Enter/select the vehicle from the book. Browse diagram/part options; **match the polaroid** (near-misses included).
+5. PC gives **part number** and/or unlocks dispense path.
+6. **Open the parts drawer / pull the bin**.
+7. **Payoff:** bagged replacement part + next clue(s) (e.g. “DO NOT invoice,” trunk token, soft reframe sticky).
 
 ---
 
@@ -63,12 +67,12 @@ Copy law: letter asks for help; never says extortion. “Off books” / “Frida
 
 | Piece | Supplies | Alone is insufficient because… |
 |---|---|---|
-| Help letter | Motive + partial vehicle hint | No part ID; maybe no year |
-| Tech polaroid | Visual of failed part | No number; model not printed |
-| Third fragment (ticket / sticker / calendar) | Year / engine / “Corolla” confirmation | No part picture |
-| Parts catalog | Diagrams + part numbers | Too many candidates without the above |
+| Help letter (+ polaroid in same packet) | Motive + visual of failed part | No part number; incomplete vehicle ID |
+| Paper book / manual | Make / model / year chapter | No link to *which* part is broken |
+| Shop PC → Parts lookup | Part # after vehicle + diagram match | Useless until you know the car and have the photo |
+| Optional third scrap | Extra year/engine confirmation | Insurance if book+letter are still ambiguous |
 
-**Success condition:** correct part number entered or correct bin selected → container opens / yields bagged part + clue packet.
+**Success condition:** correct Parts lookup result → drawer/bin opens / yields bagged part + clue packet.
 
 ### Payoff hardware options
 
@@ -138,8 +142,9 @@ Exact part type (water pump, alternator, axle, etc.) TBD — pick something **ph
 
 ## Electronics/Software (if applicable)
 
-- **v1 lean:** none — book + mechanical lock/dials/bins.
-- Optional later: bin pressure sensor / reed on correct bin for show feedback (light on parts counter).
+- **Shop PC Parts lookup** screen — part of the hub kiosk app: [`../../05-Software-Electronics/props/shop-pc-hub/README.md`](../../05-Software-Electronics/props/shop-pc-hub/README.md).
+- Drawer/bin can stay mechanical (player types part # on a dial) **or** receive an unlock pulse from the PC on correct selection.
+- Optional: bin reed/pressure sensor for feedback light.
 
 ---
 
@@ -157,16 +162,15 @@ Exact part type (water pump, alternator, axle, etc.) TBD — pick something **ph
 
 ## Open Questions / Risks
 
-1. Payoff hardware: drawer keypad vs parts-counter dials vs bin wall (or hybrid)?
+1. Payoff hardware: PC auto-unlocks drawer vs player carries part # to dials/bin?
 2. Is the car locked to the canon **Corolla**, or a different vehicle so Corolla clues stay pure story?
-3. Which failed part (must be photo-distinct and catalog-friendly)?
+3. Which failed part (must be photo-distinct on screen and in polaroid)?
 4. Does the letter stay M. Ruiz, shift to the hospital night-shift mom, or stay anonymous?
-5. Where does the third fragment live — Main sticker, Storage ticket, Office calendar?
-6. Time budget: if bin wall + book + drawer all stack, cut one layer.
-7. Avoid colliding with puzzle 01’s Office CIVIL drawer — this parts drawer should be Main or Storage.
+5. How much vehicle ID lives in the book vs letter vs optional third scrap?
+6. Avoid colliding with puzzle 01’s Office CIVIL drawer — this parts drawer should be Main or Storage.
 
 ---
 
 ## Status
 
-Concept captured from Russell’s parts-book / tech-photo / part-number → drawer idea. Diagnosis: base lookup is slightly easy and code-lock-ish; recommended upgrades are **split car ID**, **near-miss diagrams**, and a **physical part in bin/drawer** (dials or bin pull preferred over bare keypad). Awaiting picks on payoff hardware and whether this *is* the Corolla Friday job.
+Updated to Russell’s **Shop PC hub** direction: book for make/model, PC Parts lookup for the part (polaroid match, no AI). Physical part in drawer/bin still the payoff. Hub pinned in Main flow.

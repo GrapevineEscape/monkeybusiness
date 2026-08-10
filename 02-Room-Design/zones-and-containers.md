@@ -27,6 +27,7 @@ Add a row whenever we invent a new thing that holds something else. Status: `Con
 | Container | Zone | Type | Holds (known / intended) | Status | Notes |
 |---|---|---|---|---|---|
 | Shop phone / answering machine | Main | Phone + message store | Marion Cole voicemail (game start); Play button | Confirmed | Start device — see `05-Software-Electronics/props/answering-machine-phone/` |
+| Shop PC hub | Main | Interactive terminal / kiosk | Login + menu (parts, customers, air, …) | Proposed (flow-pinned) | Recurring Main hub — see `03-Flow/shop-pc-hub.md` + `05-Software-Electronics/props/shop-pc-hub/` |
 | Car trunk | Main | Locked vehicle compartment | Sparky (mascot); last major gate | Confirmed | Multi-layer 3-part lock proposed; not a zone |
 | Tony's Locker | Main (placement TBD) | Assist cabinet/locker | Mid-game easier clues / spare parts (envelopes) | Confirmed (mechanism) | GM/auto unlock only — not puzzle-solved |
 | Desk drawer(s) | Office | Furniture drawer | TBD | Proposed | Typical "locked drawer" container |

@@ -22,7 +22,7 @@ We are explicitly avoiding generic "lock + code" puzzles as the default. Instead
 | 01 | Tool shadow / cork board → CIVIL | Main + Storage + Office | Multi-zone; placement + cipher | Concept — placement fix TBD | [`01-tool-shadow-board/`](./01-tool-shadow-board/puzzle-concept.md) |
 | 02 | Path-tracing cogs | Pegboard + 3 find spots | Multi-zone; symbol-align overlays + path-trace | Concept — word/payoff TBD | [`02-path-tracing-cogs/`](./02-path-tracing-cogs/puzzle-concept.md) |
 | 03 | Partner Line ("Call the Don") → DAWN | Main + Storage + Office | Cross-zone triangulation + physical name swap | Concept — payoff contents TBD | [`03-partner-line-dawn/`](./03-partner-line-dawn/puzzle-concept.md) |
-| 04 | Parts book / tech photo → part # | Main + Storage (+ Office scrap?) | Multi-zone research + visual ID → drawer/bin | Concept — payoff hardware TBD | [`04-parts-book-corolla/`](./04-parts-book-corolla/puzzle-concept.md) |
+| 04 | Parts book / tech photo → part # | Main + Storage (+ Office scrap?) | Book (make/model) + Shop PC parts lookup → drawer/bin | Concept — payoff hardware TBD | [`04-parts-book-corolla/`](./04-parts-book-corolla/puzzle-concept.md) |
 
 ## Status
 
