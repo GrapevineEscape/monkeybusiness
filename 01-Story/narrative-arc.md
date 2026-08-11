@@ -49,7 +49,7 @@ This is the core storytelling technique for the "reveal," and it's a pattern wor
 
 **The triangulation:** #3 + #4 = handshake person is Dawn Adams; + #2 = **"the Don" = Dawn**. One of several a-has — collapses the *assumed* mob-boss into "partner is the Chief," and helps re-read the old man as helped, not targeted.
 
-**Design implication for puzzle design later:** since no single room hands the player the full answer, we should design an explicit moment/mechanic for the player to *state* the realization (e.g., input "DAWN" somewhere as a code, or a physical action that only makes sense once you've made the connection) rather than letting it be a purely mental "aha" with no in-game confirmation. Flag for [`../03-Flow/`](../03-Flow/README.md) and [`../04-Puzzles/`](../04-Puzzles/README.md).
+**Design implication / concept:** since no single room hands the player the full answer, the realization must be *used* in-game — not only mental. Drafted as puzzle **03 Partner Line** (seat DAWN over "THE DON" on Tony's Office desk): [`../04-Puzzles/03-partner-line-dawn/puzzle-concept.md`](../04-Puzzles/03-partner-line-dawn/puzzle-concept.md).
 
 ## Midpoint Turn — Starts in the Office
 

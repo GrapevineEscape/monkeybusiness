@@ -27,6 +27,7 @@
 | 15 | Brake bleeding order | **HOT** | |
 | 16 | Wall meta (Storage ↔ Office) | **HOT** | |
 | 17 | Path-tracing cogs (transparent overlays) | **HOT** | Russell concept 2026-08-09/10 — see folder |
+| 18 | Partner Line / Dawn = Don payoff | **HOT** | Story-flagged payoff; concept 2026-08-10 — see folder |
 
 **Dropped (cold):** #7 Lift, #9 Oil/dipstick.
 
@@ -48,6 +49,7 @@
 15. **Brake bleeding order** — corner sequence + pedal
 16. **Wall meta** — Storage wall half + Office wall half
 17. **Path-tracing cogs** — four transparent cogs; symbol-align to peg; trace continuous line through letters; unsolvable until all four
+18. **Partner Line / Dawn = Don** — triangulation across zones; Office action seats real name over "THE DON" nickname
 
 ### Still in play
 
@@ -125,6 +127,11 @@ Pegboard with four pegs (**color irrelevant**). Four transparent **cogs**, each 
 
 **Distribution (Russell):** three find spots — cog 1, then cog 2, then **cogs 3+4 together**. Two cogs alone are not guessable.
 
+### 18. Partner Line / Dawn = Don — HOT → concept in progress
+See [`03-partner-line-dawn/puzzle-concept.md`](./03-partner-line-dawn/puzzle-concept.md).
+
+Uses the existing Main/Storage/Office triangulation. Office desk **Partner Line** currently holds a **"THE DON"** card (misdirect). Players seat **DAWN** (card swap lean) to confirm the a-ha in-world. Not the Office door gate — an Office container / reframe beat. Payoff contents TBD.
+
 ---
 
 ## Rough Flow Roles (updated for HOT set)
@@ -134,9 +141,9 @@ Pegboard with four pegs (**color irrelevant**). Four transparent **cogs**, each 
 | Main gimme | #1 Shadow board |
 | Main depth / Storage gate | #2 Lug, #5 Timing, #14 Shifter; compressor as support (A/B/F) |
 | Storage | #8 Parts bins; #12 Paint (start); #16 half |
-| Office gate / Office | #10 Codes, #6 Firing order, #11 Alignment, #15 Bleed |
-| Cross-zone layer kings | #16 Wall meta, #5 Timing, #6 Firing, #12 Paint, #15 Bleed, **#17 Path-tracing cogs** |
-| Trunk 3-part feed | Pick 3 layered outputs from above |
+| Office gate / Office | #10 Codes, #6 Firing order, #11 Alignment, #15 Bleed; **#18 Partner Line = Office container reframe (not door gate)** |
+| Cross-zone layer kings | #16 Wall meta, #5 Timing, #6 Firing, #12 Paint, #15 Bleed, **#17 Path-tracing cogs**, **#18 Dawn triangulation** |
+| Trunk 3-part feed | Pick 3 layered outputs from above (#18 is a candidate Office-sourced part) |
 
 ---
 
@@ -146,8 +153,9 @@ Pegboard with four pegs (**color irrelevant**). Four transparent **cogs**, each 
 2. Pick 1–2 **air compressor** alt uses to keep exploring.
 3. Call **#3 Fuse** HOT or COLD.
 4. For **#17 Path-tracing cogs**: lock solution word/payoff, map three find locations, design symbol set / distractors, pick in-world theme.
-5. Whittle HOT list to ~8–10 that fit time budget, then assign to gates (Main→Storage, Storage→Office, trunk parts).
+5. For **#18 Partner Line**: lock payoff contents (ledger / Dawn audio / trunk token) and card form (DAWN vs full business card).
+6. Whittle HOT list to ~8–10 that fit time budget, then assign to gates (Main→Storage, Storage→Office, trunk parts).
 
 ## Status
 
-Ratings captured (incl. #17 HOT). Solutions still not designed.
+Ratings captured (incl. #17 and #18 HOT). #18 concept foldered. Remaining HOT themes still need solutions.
