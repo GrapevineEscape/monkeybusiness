@@ -23,7 +23,8 @@ We are explicitly avoiding generic "lock + code" puzzles as the default. Instead
 | 02 | Path-tracing cogs | Pegboard + 3 find spots | Multi-zone; symbol-align overlays + path-trace | Concept — word/payoff TBD | [`02-path-tracing-cogs/`](./02-path-tracing-cogs/puzzle-concept.md) |
 | 03 | Partner Line ("Call the Don") → DAWN | Main + Storage + Office | Cross-zone triangulation + physical name swap | Concept — payoff contents TBD | [`03-partner-line-dawn/`](./03-partner-line-dawn/puzzle-concept.md) |
 | 04 | Parts book / tech photo → part # | Main + Storage (+ Office scrap?) | Book (make/model) + Shop PC parts lookup → drawer/bin | Concept — payoff hardware TBD | [`04-parts-book-corolla/`](./04-parts-book-corolla/puzzle-concept.md) |
+| 05 | Cog alignment → NOBLE | TBD (Storage/Office) | Mechanical alignment; collection + rotation | Design complete — ready to fabricate | [`02-cog-alignment-noble/`](./02-cog-alignment-noble/puzzle-concept.md) |
 
 ## Status
 
-Theme brainstorm started: [`theme-brainstorm-v1.md`](./theme-brainstorm-v1.md). Formal folders for #01–#04. Whittle remaining HOT themes next; lock payoffs on concepts already foldered.
+Theme brainstorm started: [`theme-brainstorm-v1.md`](./theme-brainstorm-v1.md). Formal folders for #01–#05. Whittle remaining HOT themes next; lock payoffs on concepts already foldered.

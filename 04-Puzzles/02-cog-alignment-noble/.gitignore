@@ -1,0 +1,4 @@
+# Generated files - run cog_designer.py to recreate
+output/
+*.pyc
+__pycache__/
