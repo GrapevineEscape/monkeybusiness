@@ -17,7 +17,8 @@ Prop folders (placeholders — not built unless noted):
 | [`props/wall-intercom/`](./props/wall-intercom/README.md) | Frank's voice channel (opening + mid-game assists) |
 | [`props/upstairs-window/`](./props/upstairs-window/README.md) | Frank visual presence (shadow + blinds + eyes) |
 | [`props/countdown-gauge/`](./props/countdown-gauge/README.md) | Tachometer timer (confirmed concept) |
+| [`props/shop-pc-hub/`](./props/shop-pc-hub/README.md) | Main shop PC — login + menu hub (parts / customers / air / …) |
 
 Intro show-control sequence: `IDLE → MARION_PLAYING → FRANK_INTRO → GAME_RUNNING`.
 
-Otherwise still early — puzzle-specific electronics TBD.
+Shop PC hub is a **compartmentalized** kiosk app when we build it — flow pin in [`../03-Flow/shop-pc-hub.md`](../03-Flow/shop-pc-hub.md). Otherwise still early — other puzzle-specific electronics TBD.

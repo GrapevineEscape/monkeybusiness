@@ -43,9 +43,11 @@ To make the timer start feel diegetic rather than a GM pressing a button offscre
 
 Frank's dialogue plants a vague ongoing task ("run the shop") plus one concrete but currently-blocked anchor (the trunk). Since the trunk is locked, players' actual first move is "search the Main Bay for the first real gate" — the exact moment groups tend to freeze. **Recommend seeding one obvious, low-difficulty "gimme" puzzle prominently in the Main Bay** just to get hands moving in the first minute or two. Not designed yet — just flagged as a requirement.
 
+**Shop PC hub (pinned):** a greasy counter PC in Main with a sticky-note login (easy gimme) and a **menu of tools** players return to all game — parts lookup, customer lookup, air/compressor control (locked until unlocked), future slots. Flow: [`../03-Flow/shop-pc-hub.md`](../03-Flow/shop-pc-hub.md). Prop: [`../05-Software-Electronics/props/shop-pc-hub/`](../05-Software-Electronics/props/shop-pc-hub/README.md).
+
 ## Phase 2 — Main Bay (deepen the wrong assumption)
 
-You're new to the trade; Frank seems against you; odd details pile up. Early puzzles should **push further into suspicion**, not toward the truth. Hard rule: **nothing states "mob"** — players invent that. See [`../03-Flow/suspicion-curve.md`](../03-Flow/suspicion-curve.md).
+You're new to the trade; Frank seems against you; odd details pile up. Early puzzles should **push further into suspicion**, not toward the truth. Hard rule: **nothing states "mob"** — players invent that. See [`../03-Flow/suspicion-curve.md`](../03-Flow/suspicion-curve.md). The **Shop PC** is a recurring Main station once logged in — not the whole game, but the hub players bounce back to.
 
 - **Photo of Uncle Tony** — know his face.
 - **Recording: Tony & "the Don"** "taking care of" an old man — *sounds* sinister; text never says crime.

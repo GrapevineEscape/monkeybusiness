@@ -24,6 +24,14 @@ Status legend: `Needed` → `To Buy` (decided on a source/link) → `Ordered` �
 | "DAWN" / Dawn Adams keyed card | Puzzle 03 — correct key | 1 | — | Needed | — | Magnet/shape key TBD |
 | Sticky note ("use the name, not the nickname") | Puzzle 03 — instruction | 1 | — | Needed | — | |
 | Optional Office desk handset / speaker for Dawn thank-you clip | Puzzle 03 — audio payoff | 1 | — | Needed | — | Optional upgrade; keep separate from start-game shop phone |
+| Shop PC / kiosk shell (Main counter) | Shop PC hub — Main flow | 1 | — | Needed | — | See `05-Software-Electronics/props/shop-pc-hub/` |
+| Sticky note with PC login | Shop PC hub — gimme login | 1 | — | Needed | — | |
+| Runtime for shop PC kiosk app (Pi / mini PC) | Shop PC hub software | 1 | — | Needed | — | Compartmentalized build later |
+| Make/model reference book (paper) | Puzzle 04 — vehicle ID | 1 | — | Needed | — | Book answers car; PC answers part |
+| Tech polaroid of failed part (no part number) | Puzzle 04 — with help letter | 1 | — | Needed | — | |
+| Help letter (down-and-out / car repair ask) | Puzzle 04 — packet with polaroid | 1 | — | Needed | — | Cousin to M. Ruiz draft letter |
+| Parts drawer dials / lock or labeled bin wall | Puzzle 04 — payoff | 1 | — | Needed | — | May unlock from PC or via part # |
+| Bagged dummy replacement part + no-invoice note | Puzzle 04 — drawer/bin contents | 1 | — | Needed | — | Physical a-ha + dual-read sticky |
 | Room lighting control (dimmable/addressable) | Finale ambiance shift | — | — | Needed | — | See `05-Software-Electronics/` |
 | Speaker/audio system for finale music | Finale | — | — | Needed | — | |
 | Desk (Office) | Set dressing — Office | 1 | — | Needed | — | |
